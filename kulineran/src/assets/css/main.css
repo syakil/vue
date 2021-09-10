@@ -1,0 +1,49 @@
+#app{
+    font-family: 'Manrope', sans-serif;
+}
+
+.badge {
+    padding-left: 9px;
+    padding-right: 9px;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+}
+
+.label-warning[href],
+.badge-warning[href] {
+  background-color: #c67605;
+}
+#lblCartCount {
+    font-size: 12px;
+    background: #22BB33;
+    color: #fff;
+    padding: 0 5px;
+    vertical-align: top;
+    margin-left: -10px; 
+}
+
+.best-foods{
+  border-radius: 30px;
+}
+
+.breadcrumb{
+  background-color: none!important;;
+}
+
+.card-img-top{
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+.img-fluid{
+  border-radius: 15px;
+}
+
+footer{
+  position:fixed;
+  left:0px;
+  height:30px;
+  width:100%;
+  background:#999;;
+}
